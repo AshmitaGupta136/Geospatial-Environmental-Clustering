@@ -3,8 +3,8 @@
 ## Sample Plots
 ![Sample Visualization](Sample%20Visualization.png)
 
-**Sumanth Donthula**
-**, Ashmita Gupta**
+** Ashmita Gupta**
+**, Sumanth Donthula**
 
 ### Abstract
 
