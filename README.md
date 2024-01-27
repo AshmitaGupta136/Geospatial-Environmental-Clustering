@@ -3,7 +3,7 @@
 ## Sample Plots
 ![Sample Visualization](Sample%20Visualization.png)
 
-** Ashmita Gupta**
+**Ashmita Gupta**
 **, Sumanth Donthula**
 
 ### Abstract
